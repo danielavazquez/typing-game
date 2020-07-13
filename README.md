@@ -2,7 +2,7 @@
 
 ## Description
 
-A web app which uses a search input and Giphy's API to display gifs on a page.
+A typing game which lets you select diffuclty level. Each time you finish typing a word it add 5 seconds to the clock and updates score.
 
 ## Installation
 
@@ -13,5 +13,3 @@ Via npm
 > gulp watch
 
 ## Demo
-
-http://matheustontini.dx.am/portfolio/AppGiphy/
